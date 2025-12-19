@@ -23,15 +23,11 @@ This project builds a machine learning model to predict whether a customer will 
 5. Model Evaluation
 
 ## 🤖 Machine Learning Models Used
-- Logistic Regression
 - Decision Tree
 - Random Forest
 
 ## 📈 Model Evaluation Metrics
-- Accuracy
-- Precision
-- Recall
-- F1-score
+- Classification Report
 - Confusion Matrix
 
 ## 🔍 Key Insights
